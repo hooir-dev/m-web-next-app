@@ -1,45 +1,18 @@
-import { Trans } from 'react-i18next/TransWithoutContext'
-import { getT } from '../i18n'
-import { Header } from './components/Header'
-import { Footer } from './components/Footer'
-import { Link } from './components/Link'
-
-export default async function Page() {
-  const { t } = await getT()
-
+export default async function HomePage() {
   return (
-    <>
-      <main>
-        <Header heading={t('h1')} />
-        <h2>
-          <Trans t={t} i18nKey="welcome">
-            Welcome to Next.js v13 <small>appDir</small> and i18next
-          </Trans>
-        </h2>
-        <div style={{ width: '100%' }}>
-          <p>
-            <Trans t={t} i18nKey="blog.text">
-              Check out the corresponding <a href={t('blog.link')}>blog post</a> describing this example.
-            </Trans>
-          </p>
-          <a href={t('blog.link')}>
-            <img
-              style={{ width: '50%' }}
-              src="https://cdn.prod.website-files.com/67a323e323a50df7f24f0a94/67f268673fcfae53e5d4697c_i18n-next-app-router.jpg"
-            />
-          </a>
-        </div>
-        <hr style={{ marginTop: 20, width: '90%' }} />
-        <div>
-          <Link href="/second-page">
-            <button type="button">{t('to-second-page')}</button>
-          </Link>
-          <Link href="/client-page">
-            <button type="button">{t('to-client-page')}</button>
-          </Link>
-        </div>
-      </main>
-      <Footer />
-    </>
+    <main className="flex flex-col items-center justify-center min-h-screen p-5 text-center">
+      <h1 className="text-4xl font-bold text-gray-800 mb-8">
+        m-web-next-app
+      </h1>
+      
+      <a 
+        href="/test"
+        className="inline-flex items-center px-6 py-3 bg-blue-600 text-white no-underline rounded-lg text-base font-medium transition-colors duration-200 hover:bg-blue-700"
+      >
+        查看功能演示
+      </a>
+      
+      {/* 这里可以添加更多内容 */}
+    </main>
   )
 }
