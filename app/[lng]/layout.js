@@ -3,6 +3,7 @@ import './global.css'
 import { dir } from 'i18next'
 import { languages } from '../i18n/settings'
 import { getT } from '../i18n'
+import GoogleAnalytics from "@/app/GoogleAnalytics";
 
 export async function generateStaticParams() {
   return languages.map((lng) => ({ lng }))
@@ -12,7 +13,7 @@ export async function generateMetadata() {
   const { t } = await getT()
   return {
     title: t('title'),
-    content: 'A playground to explore new Next.js 13/14/15 app directory features such as nested layouts, instant loading states, streaming, and component level data fetching.'
+    description: 'MANETmesh Technologles'
   }
 }
 
@@ -26,6 +27,13 @@ export default async function RootLayout({
       <head />
       <body>
         {children}
+        {process.env.NODE_ENV === "development" ? (
+          <></>
+        ) : (
+          <>
+            <GoogleAnalytics />
+          </>
+        )}
       </body>
     </html>
   )
