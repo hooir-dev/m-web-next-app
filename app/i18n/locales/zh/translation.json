@@ -1,0 +1,23 @@
+{
+  "title": "MANETmesh - 首页",
+  "description": "MANETmesh Technologies - 创新的移动自组织网络(MANET)解决方案，提供无基础设施通信技术",
+  "h1": "MANETmesh Technologies",
+  "welcome": "欢迎来到 MANETmesh - 移动网状网络解决方案领导者",
+  "company": {
+    "name": "MANETmesh Technologies",
+    "tagline": "无限连接，无界创新"
+  },
+  "navigation": {
+    "home": "首页",
+    "products": "产品",
+    "solutions": "解决方案", 
+    "about": "关于我们",
+    "contact": "联系我们",
+    "skipToContent": "跳转到主要内容"
+  },
+  "meta": {
+    "author": "MANETmesh Technologies",
+    "robots": "index, follow",
+    "canonical": "https://www.manetmesh.com/zh"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "MANETmesh Technologies",
+  "short_name": "MANETmesh",
+  "description": "Innovative Mobile Ad-hoc Network (MANET) solutions for infrastructure-free communications",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a365d",
+  "orientation": "portrait-primary",
+  "categories": ["technology", "business", "networking"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
