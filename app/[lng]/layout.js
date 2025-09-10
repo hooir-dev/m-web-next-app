@@ -7,6 +7,7 @@ import { fontSans, getFontClassName, fontPreloadLinks } from '@/lib/fonts'
 import { cn, generateStructuredData, isDevelopment } from '@/lib/utils'
 import { siteConfig } from '@/config/site'
 import GoogleAnalytics from "@/app/GoogleAnalytics"
+import CrispChat from "@/app/CrispChat"
 import { getT } from '../i18n'
 
 export async function generateStaticParams() {
@@ -119,6 +120,7 @@ export default async function RootLayout({
         {!isDevelopment() && (
           <>
             <GoogleAnalytics />
+            <CrispChat />
           </>
         )}
       </body>
