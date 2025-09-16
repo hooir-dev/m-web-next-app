@@ -6,7 +6,7 @@ acceptLanguage.languages(languages)
 
 export const config = {
   // 排除 API 路径、静态资源、SEO 文件等，避免国际化处理
-  matcher: ['/((?!api|prod-api|_next/static|_next/image|assets|favicon.ico|sw.js|site.webmanifest|sitemap.xml|robots.txt|manifest.json).*)']
+  matcher: ['/((?!api|prod-api|_next/static|_next/image|assets|images|favicon.ico|sw.js|site.webmanifest|sitemap.xml|robots.txt|manifest.json).*)']
 }
 
 export function middleware(req) {
