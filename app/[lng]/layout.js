@@ -31,7 +31,7 @@ export default async function RootLayout({
   params
 }) {
   const { lng } = await params
-  const { t } = await getT('translation', { lng })
+  const { t } = await getT('common', { lng })
 
   // 生成结构化数据
   const structuredData = {

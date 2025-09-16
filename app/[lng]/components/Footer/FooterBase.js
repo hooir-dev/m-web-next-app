@@ -35,7 +35,7 @@ export const FooterBase = ({ t, lng, path = '' }) => {
             marginBottom: '1rem',
             color: '#d1d5db'
           }}>
-            <Trans i18nKey="languageSwitcher" t={t}>
+            <Trans i18nKey="footer.languageSwitcher" t={t}>
               Switch from <strong style={{ color: '#fbbf24' }}>{{lng}}</strong> to:{' '}
             </Trans>
           </div>
@@ -74,7 +74,7 @@ export const FooterBase = ({ t, lng, path = '' }) => {
           color: '#e5e7eb',
           lineHeight: '1.6'
         }}>
-          {t('description')}
+          {t('footer.description')}
         </div>
 
         {/* 支持信息 */}
@@ -86,7 +86,7 @@ export const FooterBase = ({ t, lng, path = '' }) => {
           color: '#9ca3af',
           fontStyle: 'italic'
         }}>
-          <Trans i18nKey="helpLocize" t={t}>
+          <Trans i18nKey="footer.helpLocize" t={t}>
             With using{' '}
             <a 
               href="https://locize.com" 

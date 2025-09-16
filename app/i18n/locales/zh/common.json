@@ -1,0 +1,102 @@
+{
+  "title": "MANETmesh - 首页",
+  "description": "MANETmesh Technologies Munich - 专业无线MESH/数据链路解决方案领先制造商。提供分布式、无中心、自组织自愈合的动态路由网络，支持多跳中继、高清视频传输，最高350 Mbps带宽和500+公里传输距离。广泛应用于军事通信、应急响应、公共安全和关键基础设施领域。",
+  "h1": "MANETmesh Technologies",
+  "welcome": "欢迎来到 MANETmesh - 移动网状网络解决方案领导者",
+  "products": {
+    "wireless_mesh": {
+      "title": "MANETmesh 无线MESH网络",
+      "subtitle": "从星型、线型到网状的分布式无中心IP网络",
+      "description": "无线宽带自组织网络，具备分布式、无中心、自组织、自适应、自愈合特性，支持动态路由和多跳中继。",
+      "features": [
+        "实时高清视频、多通道数据、高保真语音传输",
+        "最高350 Mbps吞吐量，500+公里传输距离",
+        "基于5G MIMO/3GPP-LTE/SDR技术",
+        "多载波OFDM调制和智能天线MIMO技术"
+      ]
+    },
+    "series": {
+      "lightweight_airborne": "轻量级机载系列",
+      "multiple_handheld": "多功能手持系列",
+      "powerful_backpack": "强力背包系列",
+      "vehicular_rack": "车载/机架式系列",
+      "outdoor": "室外系列",
+      "oem_odm": "OEM/ODM定制模块系列"
+    }
+  },
+  "applications": {
+    "title": "应用领域",
+    "military": "军事通信、反恐应急",
+    "public_safety": "公共安全、应急响应",
+    "fire_rescue": "消防指挥、森林防火",
+    "power_inspection": "电力巡检、数字油田",
+    "drone_fleet": "无人机集群、舰队通信",
+    "maritime": "船舶编队、海事通信"
+  },
+  "company": {
+    "name": "MANETmesh Technologies",
+    "tagline": "性能卓越 / 专业无线 / 品质保证 - 远距离、高速率、强抗干扰无线数据传输的最佳选择"
+  },
+  "navigation": {
+    "home": "首页",
+    "products": "产品",
+    "solutions": "解决方案", 
+    "about": "关于我们",
+    "contact": "联系我们",
+    "skipToContent": "跳转到主要内容"
+  },
+  "header": {
+    "logo_alt": "MANETmesh Technologies 标志",
+    "menu": "菜单",
+    "close_menu": "关闭菜单",
+    "language_selector": "选择语言"
+  },
+  "footer": {
+    "description": "MANETmesh Technologies - 专业无线MESH解决方案领先制造商",
+    "copyright": "© 2024 MANETmesh Technologies. 版权所有。",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "contact": "联系我们",
+    "company_info": "公司信息",
+    "products_services": "产品与服务",
+    "support": "技术支持",
+    "legal": "法律条款",
+    "languageSwitcher": "从 {{lng}} 切换到：",
+    "helpLocize": "通过使用 <1>locize</1>，您可以直接支持 <3>i18next</3> 的未来发展。"
+  },
+  "language_detection": {
+    "detecting": "正在检测语言...",
+    "switch_to": "切换到{{language}}",
+    "current_language": "当前语言：{{language}}",
+    "available_languages": "可用语言"
+  },
+  "meta": {
+    "author": "MANETmesh Technologies Munich GmbH",
+    "robots": "index, follow",
+    "canonical": "https://www.manetmesh.com/zh",
+    "keywords": "无线网状网络, MANET, 自组织网络, 军事通信, 应急响应, 软件定义无线电, MIMO, 数据链路, 抗干扰"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "确认",
+    "save": "保存",
+    "edit": "编辑",
+    "delete": "删除",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "more": "更多",
+    "less": "更少",
+    "show_more": "显示更多",
+    "show_less": "显示更少",
+    "read_more": "阅读更多",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "close": "关闭",
+    "open": "打开"
+  }
+}

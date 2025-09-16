@@ -1,0 +1,102 @@
+{
+  "title": "MANETmesh - Home",
+  "description": "MANETmesh Technologies Munich - Leading manufacturer of professional wireless MESH/Data Link solutions. Offering distributed, centerless, self-organizing ad-hoc networks with dynamic routing, multi-hop relay, HD video transmission up to 350 Mbps and 500+ km range. Ideal for military communications, emergency response, public safety, and critical infrastructure applications.",
+  "h1": "MANETmesh Technologies",
+  "welcome": "Welcome to MANETmesh - Leading Mobile Mesh Network Solutions",
+  "products": {
+    "wireless_mesh": {
+      "title": "MANETmesh Wireless MESH",
+      "subtitle": "Distributed centerless IP Mesh from star, line to mesh network",
+      "description": "Wireless broadband ad hoc networks with decentralized, distributed, self-organizing, adaptive, and self-healing mesh network featuring dynamic routing and multi-hop relaying.",
+      "features": [
+        "Real-time HD video, multi-channel data, and high-fidelity voice",
+        "Up to 350 Mbps throughput and 500+ km transmission range", 
+        "Based on 5G MIMO/3GPP-LTE/SDR technologies",
+        "Multi-carrier OFDM modulation and smart antenna MIMO"
+      ]
+    },
+    "series": {
+      "lightweight_airborne": "Lightweight Airborne Series",
+      "multiple_handheld": "Multiple Handheld Series", 
+      "powerful_backpack": "Powerful Backpack Series",
+      "vehicular_rack": "Vehicular/Rack-mounted Series",
+      "outdoor": "Outdoor Series",
+      "oem_odm": "OEM/ODM Customized Module Series"
+    }
+  },
+  "applications": {
+    "title": "Applications",
+    "military": "Military communications and anti-terrorism",
+    "public_safety": "Public safety and emergency response", 
+    "fire_rescue": "Fire command and forest fire prevention",
+    "power_inspection": "Power inspection and digital oil fields",
+    "drone_fleet": "Drone swarms and fleet communication",
+    "maritime": "Ship formation and maritime communications"
+  },
+  "company": {
+    "name": "MANETmesh Technologies",
+    "tagline": "Performance / Wireless / Professional - The best choice for long-distance, high-speed and anti-interference wireless data transmission"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "solutions": "Solutions",
+    "about": "About",
+    "contact": "Contact",
+    "skipToContent": "Skip to main content"
+  },
+  "header": {
+    "logo_alt": "MANETmesh Technologies Logo",
+    "menu": "Menu",
+    "close_menu": "Close Menu",
+    "language_selector": "Select Language"
+  },
+  "footer": {
+    "description": "MANETmesh Technologies - Leading manufacturer of professional wireless MESH solutions",
+    "copyright": "© 2024 MANETmesh Technologies. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us",
+    "company_info": "Company Information",
+    "products_services": "Products & Services",
+    "support": "Support",
+    "legal": "Legal",
+    "languageSwitcher": "Switch from {{lng}} to: ",
+    "helpLocize": "With using <1>locize</1> you directly support the future of <3>i18next</3>."
+  },
+  "language_detection": {
+    "detecting": "Detecting language...",
+    "switch_to": "Switch to {{language}}",
+    "current_language": "Current language: {{language}}",
+    "available_languages": "Available languages"
+  },
+  "meta": {
+    "author": "MANETmesh Technologies Munich GmbH",
+    "robots": "index, follow",
+    "canonical": "https://www.manetmesh.com/en",
+    "keywords": "wireless mesh network, MANET, ad-hoc network, military communications, emergency response, SDR, MIMO, data link, anti-interference"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "more": "More",
+    "less": "Less",
+    "show_more": "Show More",
+    "show_less": "Show Less",
+    "read_more": "Read More",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "open": "Open"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "MANETmesh - Accueil",
+  "description": "MANETmesh Technologies Munich - Fabricant leader de solutions professionnelles MESH/liaison de données sans fil. Offre des réseaux ad-hoc distribués, décentralisés, auto-organisants avec routage dynamique, relais multi-saut, transmission vidéo HD jusqu'à 350 Mbps et portée de 500+ km. Idéal pour les communications militaires, réponse d'urgence, sécurité publique et applications d'infrastructure critiques.",
+  "h1": "MANETmesh Technologies",
+  "welcome": "Bienvenue chez MANETmesh - Leader en solutions de réseau maillé mobile",
+  "products": {
+    "wireless_mesh": {
+      "title": "MANETmesh Réseau MESH Sans fil",
+      "subtitle": "Maillage IP distribué décentralisé d'étoile, ligne à réseau maillé",
+      "description": "Réseaux ad-hoc à large bande sans fil avec réseau maillé décentralisé, distribué, auto-organisant, adaptatif et auto-réparateur avec routage dynamique et relais multi-saut.",
+      "features": [
+        "Transmission vidéo HD en temps réel, données multi-canaux et voix haute fidélité",
+        "Jusqu'à 350 Mbps de débit et 500+ km de portée de transmission",
+        "Basé sur les technologies 5G MIMO/3GPP-LTE/SDR",
+        "Modulation OFDM multi-porteuses et antennes intelligentes MIMO"
+      ]
+    },
+    "series": {
+      "lightweight_airborne": "Série Aéroportée Légère",
+      "multiple_handheld": "Série Portable Multifonctionnelle",
+      "powerful_backpack": "Série Sac à Dos Puissante",
+      "vehicular_rack": "Série Véhiculaire/Montage en Rack",
+      "outdoor": "Série Extérieure",
+      "oem_odm": "Série Modules Personnalisés OEM/ODM"
+    }
+  },
+  "applications": {
+    "title": "Applications",
+    "military": "Communications militaires et anti-terrorisme",
+    "public_safety": "Sécurité publique et réponse d'urgence",
+    "fire_rescue": "Commandement des pompiers et prévention des incendies de forêt",
+    "power_inspection": "Inspection électrique et champs pétroliers numériques",
+    "drone_fleet": "Essaims de drones et communication de flotte",
+    "maritime": "Formation navale et communications maritimes"
+  },
+  "company": {
+    "name": "MANETmesh Technologies",
+    "tagline": "Performance / Sans fil / Professionnel - Le meilleur choix pour la transmission de données sans fil longue distance, haute vitesse et anti-interférence"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "products": "Produits",
+    "solutions": "Solutions",
+    "about": "À propos",
+    "contact": "Contact",
+    "skipToContent": "Aller au contenu principal"
+  },
+  "header": {
+    "logo_alt": "Logo MANETmesh Technologies",
+    "menu": "Menu",
+    "close_menu": "Fermer le menu",
+    "language_selector": "Sélectionner la langue"
+  },
+  "footer": {
+    "description": "MANETmesh Technologies - Fabricant leader de solutions MESH sans fil professionnelles",
+    "copyright": "© 2024 MANETmesh Technologies. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "contact": "Contactez-nous",
+    "company_info": "Informations sur l'entreprise",
+    "products_services": "Produits et Services",
+    "support": "Support",
+    "legal": "Légal",
+    "languageSwitcher": "Passer de {{lng}} à : ",
+    "helpLocize": "En utilisant <1>locize</1>, vous soutenez directement l'avenir d'<3>i18next</3>."
+  },
+  "language_detection": {
+    "detecting": "Détection de la langue...",
+    "switch_to": "Basculer vers {{language}}",
+    "current_language": "Langue actuelle : {{language}}",
+    "available_languages": "Langues disponibles"
+  },
+  "meta": {
+    "author": "MANETmesh Technologies Munich GmbH",
+    "robots": "index, follow",
+    "canonical": "https://www.manetmesh.com/fr",
+    "keywords": "réseau maillé sans fil, MANET, réseau ad-hoc, communications militaires, réponse d'urgence, SDR, MIMO, liaison de données, anti-interférence"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "more": "Plus",
+    "less": "Moins",
+    "show_more": "Afficher plus",
+    "show_less": "Afficher moins",
+    "read_more": "Lire plus",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "close": "Fermer",
+    "open": "Ouvrir"
+  }
+}

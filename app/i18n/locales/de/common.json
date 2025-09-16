@@ -1,0 +1,102 @@
+{
+  "title": "MANETmesh - Startseite",
+  "description": "MANETmesh Technologies Munich - Führender Hersteller professioneller drahtloser MESH/Datenlink-Lösungen. Bietet verteilte, dezentrale, selbstorganisierende Ad-hoc-Netzwerke mit dynamischem Routing, Multi-Hop-Relay, HD-Videoübertragung bis zu 350 Mbps und 500+ km Reichweite. Ideal für Militärkommunikation, Notfallreaktion, öffentliche Sicherheit und kritische Infrastrukturanwendungen.",
+  "h1": "MANETmesh Technologies",
+  "welcome": "Willkommen bei MANETmesh - Führende Mobile Mesh-Netzwerk-Lösungen",
+  "products": {
+    "wireless_mesh": {
+      "title": "MANETmesh Drahtloses MESH",
+      "subtitle": "Verteiltes dezentrales IP-Mesh von Stern-, Linien- zu Mesh-Netzwerk",
+      "description": "Drahtlose Breitband-Ad-hoc-Netzwerke mit dezentralen, verteilten, selbstorganisierenden, adaptiven und selbstheilenden Mesh-Netzwerk-Features mit dynamischem Routing und Multi-Hop-Relaying.",
+      "features": [
+        "Echtzeit-HD-Video, Mehrkanaldata und High-Fidelity-Sprachübertragung",
+        "Bis zu 350 Mbps Durchsatz und 500+ km Übertragungsreichweite",
+        "Basierend auf 5G MIMO/3GPP-LTE/SDR-Technologien",
+        "Multi-Träger OFDM-Modulation und intelligente Antennen-MIMO"
+      ]
+    },
+    "series": {
+      "lightweight_airborne": "Leichtgewichtige Luftfahrt-Serie",
+      "multiple_handheld": "Multifunktionale Handheld-Serie",
+      "powerful_backpack": "Leistungsstarke Rucksack-Serie",
+      "vehicular_rack": "Fahrzeug-/Rack-montierte Serie",
+      "outdoor": "Outdoor-Serie",
+      "oem_odm": "OEM/ODM Maßgeschneiderte Modul-Serie"
+    }
+  },
+  "applications": {
+    "title": "Anwendungen",
+    "military": "Militärkommunikation und Anti-Terror",
+    "public_safety": "Öffentliche Sicherheit und Notfallreaktion",
+    "fire_rescue": "Feuerwehrkommando und Waldbrandprävention",
+    "power_inspection": "Strominspektion und digitale Ölfelder",
+    "drone_fleet": "Drohnenschwärme und Flottenkommunikation",
+    "maritime": "Schiffsformation und Seekommunikation"
+  },
+  "company": {
+    "name": "MANETmesh Technologies",
+    "tagline": "Leistung / Drahtlos / Professionell - Die beste Wahl für weitreichende, schnelle und störungsresistente drahtlose Datenübertragung"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "solutions": "Lösungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "skipToContent": "Zum Hauptinhalt springen"
+  },
+  "header": {
+    "logo_alt": "MANETmesh Technologies Logo",
+    "menu": "Menü",
+    "close_menu": "Menü schließen",
+    "language_selector": "Sprache auswählen"
+  },
+  "footer": {
+    "description": "MANETmesh Technologies - Führender Hersteller professioneller drahtloser MESH-Lösungen",
+    "copyright": "© 2024 MANETmesh Technologies. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "contact": "Kontaktieren Sie uns",
+    "company_info": "Unternehmensinformationen",
+    "products_services": "Produkte & Dienstleistungen",
+    "support": "Support",
+    "legal": "Rechtliches",
+    "languageSwitcher": "Wechseln von {{lng}} nach: ",
+    "helpLocize": "Wenn Sie <1>locize</1> einsetzen, unterstützen Sie direkt die Zukunft von <3>i18next</3>."
+  },
+  "language_detection": {
+    "detecting": "Sprache wird erkannt...",
+    "switch_to": "Zu {{language}} wechseln",
+    "current_language": "Aktuelle Sprache: {{language}}",
+    "available_languages": "Verfügbare Sprachen"
+  },
+  "meta": {
+    "author": "MANETmesh Technologies Munich GmbH",
+    "robots": "index, follow",
+    "canonical": "https://www.manetmesh.com/de",
+    "keywords": "drahtloses Mesh-Netzwerk, MANET, Ad-hoc-Netzwerk, Militärkommunikation, Notfallreaktion, SDR, MIMO, Datenlink, Störungsresistenz"
+  },
+  "common": {
+    "loading": "Wird geladen...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "more": "Mehr",
+    "less": "Weniger",
+    "show_more": "Mehr anzeigen",
+    "show_less": "Weniger anzeigen",
+    "read_more": "Weiterlesen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "previous": "Vorherige",
+    "close": "Schließen",
+    "open": "Öffnen"
+  }
+}
