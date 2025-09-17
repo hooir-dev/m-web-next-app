@@ -1,6 +1,6 @@
 {
   "title": "MANETmesh - 首页",
-  "description": "MANETmesh Technologies Munich - 专业无线MESH/数据链路解决方案领先制造商。提供分布式、无中心、自组织自愈合的动态路由网络，支持多跳中继、高清视频传输，最高350 Mbps带宽和500+公里传输距离。广泛应用于军事通信、应急响应、公共安全和关键基础设施领域。",
+  "description": "MANETmesh Technologies - 专业无线MESH网状网络和数据链路解决方案领先制造商。MANET mesh（移动自组织网状网络）技术提供分布式、无中心、自组织自愈合的动态路由网络，支持多跳中继、高清视频传输，最高350 Mbps带宽和500+公里传输距离。广泛应用于军事通信、应急响应、公共安全和关键基础设施领域。",
   "h1": "MANETmesh Technologies",
   "welcome": "欢迎来到 MANETmesh - 移动网状网络解决方案领导者",
   "products": {
@@ -52,7 +52,7 @@
     "language_selector": "选择语言"
   },
   "footer": {
-    "description": "MANETmesh Technologies - 专业无线MESH解决方案领先制造商",
+    "description": "MANETmesh Technologies - 专业无线MESH网状网络解决方案领先制造商",
     "copyright": "© 2024 MANETmesh Technologies. 版权所有。",
     "privacy": "隐私政策",
     "terms": "使用条款",
@@ -71,7 +71,7 @@
     "available_languages": "可用语言"
   },
   "meta": {
-    "author": "MANETmesh Technologies Munich GmbH",
+    "author": "MANETmesh Technologies GmbH",
     "robots": "index, follow",
     "canonical": "https://www.manetmesh.com/zh",
     "keywords": "无线网状网络, MANET, 自组织网络, 军事通信, 应急响应, 软件定义无线电, MIMO, 数据链路, 抗干扰"

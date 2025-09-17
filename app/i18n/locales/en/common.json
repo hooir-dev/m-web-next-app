@@ -1,6 +1,6 @@
 {
   "title": "MANETmesh - Home",
-  "description": "MANETmesh Technologies Munich - Leading manufacturer of professional wireless MESH/Data Link solutions. Offering distributed, centerless, self-organizing ad-hoc networks with dynamic routing, multi-hop relay, HD video transmission up to 350 Mbps and 500+ km range. Ideal for military communications, emergency response, public safety, and critical infrastructure applications.",
+  "description": "MANETmesh Technologies - Leading manufacturer of professional wireless MESH networks and data link solutions. MANET mesh (Mobile Ad-hoc Network mesh) technology offers distributed, centerless, self-organizing ad-hoc networks with dynamic routing, multi-hop relay, HD video transmission up to 350 Mbps and 500+ km range. Ideal for military communications, emergency response, public safety, and critical infrastructure applications.",
   "h1": "MANETmesh Technologies",
   "welcome": "Welcome to MANETmesh - Leading Mobile Mesh Network Solutions",
   "products": {
@@ -52,7 +52,7 @@
     "language_selector": "Select Language"
   },
   "footer": {
-    "description": "MANETmesh Technologies - Leading manufacturer of professional wireless MESH solutions",
+    "description": "MANETmesh Technologies - Leading manufacturer of professional wireless MESH network solutions",
     "copyright": "© 2024 MANETmesh Technologies. All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
@@ -71,7 +71,7 @@
     "available_languages": "Available languages"
   },
   "meta": {
-    "author": "MANETmesh Technologies Munich GmbH",
+    "author": "MANETmesh Technologies GmbH",
     "robots": "index, follow",
     "canonical": "https://www.manetmesh.com/en",
     "keywords": "wireless mesh network, MANET, ad-hoc network, military communications, emergency response, SDR, MIMO, data link, anti-interference"

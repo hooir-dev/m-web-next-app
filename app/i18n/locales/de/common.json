@@ -1,6 +1,6 @@
 {
   "title": "MANETmesh - Startseite",
-  "description": "MANETmesh Technologies Munich - Führender Hersteller professioneller drahtloser MESH/Datenlink-Lösungen. Bietet verteilte, dezentrale, selbstorganisierende Ad-hoc-Netzwerke mit dynamischem Routing, Multi-Hop-Relay, HD-Videoübertragung bis zu 350 Mbps und 500+ km Reichweite. Ideal für Militärkommunikation, Notfallreaktion, öffentliche Sicherheit und kritische Infrastrukturanwendungen.",
+  "description": "MANETmesh Technologies - Führender Hersteller professioneller drahtloser MESH-Netzwerke und Datenlink-Lösungen. MANET-Mesh (Mobile Ad-hoc Network Mesh) Technologie bietet verteilte, dezentrale, selbstorganisierende Ad-hoc-Netzwerke mit dynamischem Routing, Multi-Hop-Relay, HD-Videoübertragung bis zu 350 Mbps und 500+ km Reichweite. Ideal für Militärkommunikation, Notfallreaktion, öffentliche Sicherheit und kritische Infrastrukturanwendungen.",
   "h1": "MANETmesh Technologies",
   "welcome": "Willkommen bei MANETmesh - Führende Mobile Mesh-Netzwerk-Lösungen",
   "products": {
@@ -52,7 +52,7 @@
     "language_selector": "Sprache auswählen"
   },
   "footer": {
-    "description": "MANETmesh Technologies - Führender Hersteller professioneller drahtloser MESH-Lösungen",
+    "description": "MANETmesh Technologies - Führender Hersteller professioneller drahtloser MESH-Netzwerk-Lösungen",
     "copyright": "© 2024 MANETmesh Technologies. Alle Rechte vorbehalten.",
     "privacy": "Datenschutzrichtlinie",
     "terms": "Nutzungsbedingungen",
@@ -71,7 +71,7 @@
     "available_languages": "Verfügbare Sprachen"
   },
   "meta": {
-    "author": "MANETmesh Technologies Munich GmbH",
+    "author": "MANETmesh Technologies GmbH",
     "robots": "index, follow",
     "canonical": "https://www.manetmesh.com/de",
     "keywords": "drahtloses Mesh-Netzwerk, MANET, Ad-hoc-Netzwerk, Militärkommunikation, Notfallreaktion, SDR, MIMO, Datenlink, Störungsresistenz"

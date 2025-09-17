@@ -1,6 +1,6 @@
 {
   "title": "MANETmesh - Accueil",
-  "description": "MANETmesh Technologies Munich - Fabricant leader de solutions professionnelles MESH/liaison de données sans fil. Offre des réseaux ad-hoc distribués, décentralisés, auto-organisants avec routage dynamique, relais multi-saut, transmission vidéo HD jusqu'à 350 Mbps et portée de 500+ km. Idéal pour les communications militaires, réponse d'urgence, sécurité publique et applications d'infrastructure critiques.",
+  "description": "MANETmesh Technologies - Fabricant leader de solutions professionnelles de réseaux MESH sans fil et liaison de données. La technologie MANET mesh (Mobile Ad-hoc Network mesh) offre des réseaux ad-hoc distribués, décentralisés, auto-organisants avec routage dynamique, relais multi-saut, transmission vidéo HD jusqu'à 350 Mbps et portée de 500+ km. Idéal pour les communications militaires, réponse d'urgence, sécurité publique et applications d'infrastructure critiques.",
   "h1": "MANETmesh Technologies",
   "welcome": "Bienvenue chez MANETmesh - Leader en solutions de réseau maillé mobile",
   "products": {
@@ -52,7 +52,7 @@
     "language_selector": "Sélectionner la langue"
   },
   "footer": {
-    "description": "MANETmesh Technologies - Fabricant leader de solutions MESH sans fil professionnelles",
+    "description": "MANETmesh Technologies - Fabricant leader de solutions de réseaux MESH sans fil professionnelles",
     "copyright": "© 2024 MANETmesh Technologies. Tous droits réservés.",
     "privacy": "Politique de confidentialité",
     "terms": "Conditions d'utilisation",
@@ -71,7 +71,7 @@
     "available_languages": "Langues disponibles"
   },
   "meta": {
-    "author": "MANETmesh Technologies Munich GmbH",
+    "author": "MANETmesh Technologies GmbH",
     "robots": "index, follow",
     "canonical": "https://www.manetmesh.com/fr",
     "keywords": "réseau maillé sans fil, MANET, réseau ad-hoc, communications militaires, réponse d'urgence, SDR, MIMO, liaison de données, anti-interférence"
