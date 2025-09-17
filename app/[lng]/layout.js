@@ -63,7 +63,7 @@ export default async function RootLayout({
     <html
       lang={lng}
       dir={dir(lng)}
-      className={getFontClassName(lng)}
+      className={cn(getFontClassName(lng), 'w-full h-full')}
       suppressHydrationWarning
     >
       <head>
@@ -97,7 +97,7 @@ export default async function RootLayout({
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased",
-          "flex flex-col"
+          "w-full h-full"
         )}
       >
         {/* 跳转到主要内容的链接（无障碍访问） */}
@@ -110,11 +110,9 @@ export default async function RootLayout({
         </a>
 
         {/* 主要内容容器 */}
-        <div className="flex-1 flex flex-col">
-          <main id="main-content" role="main" className="flex-1">
-            {children}
-          </main>
-        </div>
+        <main id="main-content" role="main" className="w-full h-full">
+          {children}
+        </main>
 
         {/* 分析和追踪脚本 */}
         {!isDevelopment() && (
